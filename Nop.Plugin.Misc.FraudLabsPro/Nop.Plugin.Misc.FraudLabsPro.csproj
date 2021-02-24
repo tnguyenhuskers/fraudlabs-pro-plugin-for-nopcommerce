@@ -54,7 +54,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="FraudLabsPro" Version="1.1.0" />
+    <PackageReference Include="FraudLabsPro" Version="1.2.1" />
   </ItemGroup>
 
   <ItemGroup>
